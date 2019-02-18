@@ -1,4 +1,4 @@
-# Zadatak kriptomenjacnica
+# Zadatak kripto-menjačnica
 
 Napraviti html/css stranu koja će prikazivati grid 5x5 sa widgetima, po sledećem rasporedu:
 
